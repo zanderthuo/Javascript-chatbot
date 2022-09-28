@@ -1,0 +1,73 @@
+[{
+        "questions": [
+            "how your day is going"
+        ],
+        "answers": [
+            "Doing great, thanks."
+        ]
+    },
+    {
+        "questions": [
+            "I want to give a statement about some incidents that happened"
+        ],
+        "answers": [
+            "Please state the incident"
+        ]
+    },
+    {
+        "questions": [
+            "The incident is robbery with violence at my house"
+        ],
+        "answers": [
+            "When was it and did you see the suspects?"
+        ]
+    },
+    {
+        "questions": [
+            "The incident is for disturbing neighbors"
+        ],
+        "answers": [
+            "What have they done?"
+        ]
+    },
+    {
+        "questions": [
+            "They are always having parties every single day with loud music "
+        ],
+        "answers": [
+            "Where is your place of residence?"
+        ]
+    },
+    {
+        "questions": [
+            "I live in Kibera "
+        ],
+        "answers": [
+            "Great, we will send a team to look into that matter. Thank you for reporting"
+        ]
+    },
+    {
+        "questions": [
+            "Yes I saw the suspects, it was on 30th August this year"
+        ],
+        "answers": [
+            "Give a description of the suspects"
+        ]
+    },
+    {
+        "questions": [
+            "They were two, one wore black t-shirt and kaki pants and the other wore red hoody with blue jeans. They had guns"
+        ],
+        "answers": [
+            "Great! We will do our investigation then we will reach out when we have something"
+        ]
+    },
+    {
+        "questions": [
+            "Thank you for your assistance"
+        ],
+        "answers": [
+            "Have a Good day"
+        ]
+    }
+]
